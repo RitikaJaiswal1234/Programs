@@ -31,6 +31,7 @@ public class anagram
 	    s.checkAnagram(s1,s2);
 	   
 	    sc.close();
+		//changes done
 	   
 	}
 }
